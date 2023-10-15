@@ -1,0 +1,15 @@
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/bin/Debug/net7.0/final-new
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/bin/Debug/net7.0/final-new.deps.json
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/bin/Debug/net7.0/final-new.runtimeconfig.json
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/bin/Debug/net7.0/final-new.dll
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/bin/Debug/net7.0/final-new.pdb
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/obj/Debug/net7.0/final-new.csproj.AssemblyReference.cache
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/obj/Debug/net7.0/final-new.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/obj/Debug/net7.0/final-new.AssemblyInfoInputs.cache
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/obj/Debug/net7.0/final-new.AssemblyInfo.cs
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/obj/Debug/net7.0/final-new.csproj.CoreCompileInputs.cache
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/obj/Debug/net7.0/final-new.dll
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/obj/Debug/net7.0/refint/final-new.dll
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/obj/Debug/net7.0/final-new.pdb
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/obj/Debug/net7.0/final-new.genruntimeconfig.cache
+/Users/masonschermerhorn/Desktop/Bethel-Tech/csharp-course/final-new/obj/Debug/net7.0/ref/final-new.dll
